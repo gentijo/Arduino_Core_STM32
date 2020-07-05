@@ -1221,6 +1221,14 @@ GenF3.menu.upload_method.bmpMethod=BMP (Black Magic Probe)
 GenF3.menu.upload_method.bmpMethod.upload.protocol=gdb_bmp
 GenF3.menu.upload_method.bmpMethod.upload.tool=bmp_upload
 
+# SPRACING_F303CB
+GenF3.menu.pnum.SPRACING_F303CB=SPRacing F303CB
+GenF3.menu.pnum.SPRACING_F303CB.upload.maximum_size=262144
+GenF3.menu.pnum.SPRACING_F303CB.upload.maximum_data_size=40960
+GenF3.menu.pnum.SPRACING_F303CB.build.board=SPRACING_F303CB
+GenF3.menu.pnum.SPRACING_F303CB.build.product_line=STM32F303xB
+GenF3.menu.pnum.SPRACING_F303CB.build.variant=SPRACING_F303CB
+
 ################################################################################
 # Generic F4
 
